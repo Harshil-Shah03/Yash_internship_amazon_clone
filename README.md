@@ -1,3 +1,16 @@
+# Photos
+![image](https://github.com/Harshil-Shah03/Yash_internship_amazon_clone/assets/128024088/960f1b03-758f-4cae-8cd6-275ec5ca7f49)
+
+![image](https://github.com/Harshil-Shah03/Yash_internship_amazon_clone/assets/128024088/3a138a71-4022-410f-b921-185dd853f388)
+
+
+![image](https://github.com/Harshil-Shah03/Yash_internship_amazon_clone/assets/128024088/33e029ee-46bd-4097-8af0-61dcfb942553)
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
